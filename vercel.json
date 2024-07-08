@@ -24,7 +24,7 @@
         "APP_NAME": "Rental Mobil",
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://api.treckstar.net",
+        "APP_URL": "https://rentalmobil-deploy-vercel.vercel.app/",
         "VERCEL_DEMO_MODE": "true",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
